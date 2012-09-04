@@ -1,0 +1,17 @@
+*.class
+
+# Package Files #
+*.jar
+*.war
+*.ear
+!/lib/commons-logging.jar
+
+#config files#
+/build.xml
+/manifest.mf
+#project files#
+/nbproject/
+#build#
+/build/
+
+/data/book--.txt
